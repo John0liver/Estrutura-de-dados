@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643062895 source:c:\users\jhona\onedrive\Área de trabalho\testesgit\busca-simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1643062895 source:c:\users\jhona\onedrive\Área de trabalho\programação\estrutura_de_dados\busca-simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
