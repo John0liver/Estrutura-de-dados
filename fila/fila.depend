@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643416889 source:c:\users\jhona\onedrive\Área de trabalho\programação\estrutura_de_dados\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
